@@ -1,4 +1,4 @@
-# freeCodeCamp-Solutions
+# freeCodeCamp Solutions
 
 Certificate(s) with my completion status:
 
