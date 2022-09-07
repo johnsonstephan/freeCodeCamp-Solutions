@@ -1,5 +1,10 @@
-<!-- Step 54
-Add an id attribute with the value loving to the checkbox input.
+<!-- Step 55
+There's another way to associate an input element's text with the element itself. 
+You can nest the text within a label element and add a for attribute with the same value as the input element's id attribute.
+
+Associate the text Loving with the checkbox by only nesting the text 
+Loving 
+in a label element and place it to the right side of the checkbox input element.
 -->
 <html>
 
@@ -45,7 +50,7 @@ Add an id attribute with the value loving to the checkbox input.
                 </fieldset>
                 <fieldset>
                     <legend>What's your cat's personality?</legend>
-                    <input id="loving" type="checkbox"> Loving
+                    <input id="loving" type="checkbox"> <label for="loving">Loving</label>
                 </fieldset>
                 <input type="text" name="catphotourl" placeholder="cat photo URL" required>
                 <button type="submit">Submit</button>
