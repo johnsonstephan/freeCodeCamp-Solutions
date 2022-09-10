@@ -12,13 +12,13 @@ Certificate(s) with my completion status:
 
 ### **1. Responsive Web Design Certification** 
 
-* [x] [Learn HTML by Building a Cat Photo App](https://github.com/johnsonstephan/freeCodeCamp-Solutions/tree/main/Responsive%20Web%20Design%20Certification/Learn%20HTML%20by%20Building%20a%20Cat%20Photo%20App)
+- [x] [Learn HTML by Building a Cat Photo App](https://github.com/johnsonstephan/freeCodeCamp-Solutions/tree/main/Responsive%20Web%20Design%20Certification/Learn%20HTML%20by%20Building%20a%20Cat%20Photo%20App)
 
-* [ ] Learn Basic CSS by Building a Cafe Menu
-* [ ] Learn CSS Colors by Building a Set of Colored Markers
-* [ ] Learn HTML Forms by Building a Registration Form
+- [ ] Learn Basic CSS by Building a Cafe Menu
+- [ ] Learn CSS Colors by Building a Set of Colored Markers
+- [ ] Learn HTML Forms by Building a Registration Form
 
-** [ ] Project 1: Survery Form**
+** [ ] Project 1: Survery Form **
     
 - [ ] Learn the CSS Box Model by Building a Rothko Painting
 - [ ] Learn CSS Flexbox by Building a Photo Gallery
@@ -43,7 +43,8 @@ Certificate(s) with my completion status:
 
 ** [ ] Project 5: Personal Portfolio Webpage**  
 
-<br>
+\
+
 ### **2. JavaScript Algorithms and Data Structures Certification** 
 
 ### **3. Front End Libraries Certification** 
