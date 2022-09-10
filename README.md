@@ -43,7 +43,7 @@ Certificate(s) with my completion status:
 
 ** [ ] Project 5: Personal Portfolio Webpage**  
 
-\
+<br> </br>
 
 ### **2. JavaScript Algorithms and Data Structures Certification** 
 
