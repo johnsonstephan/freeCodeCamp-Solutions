@@ -43,9 +43,8 @@ Certificates with my completion status:
 - [ ] Learn CSS Transforms by Building a Penguin
 - [ ] Learn CSS Animations by Building a Ferris Wheel 
 
- [ ] **Project 5: Personal Portfolio Webpage**  
-
- **Projects**: Survey Form
+[ ] **Project 5: Personal Portfolio Webpage**  
+- [ ] **Project 5: Personal Portfolio Webpage**  
  
 <br />
  
