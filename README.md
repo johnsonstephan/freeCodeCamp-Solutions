@@ -2,13 +2,15 @@
 
 ![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 
-freeCodeCamp.org offers several developer certifications and each certification takes a programmer around 300 hours to earn. Certifications involve building 5 required web app projects, along with hundreds of coding challenges. 
+freeCodeCamp.org offers several developer certifications. Each certification takes a programmer around 300 hours to earn and involve building 5 required web app projects, along with solving hundreds of coding challenges. 
 
 This repository contains my solutions to those coding challenges and web app projects. If you are also a member of the freeCodeCamp community or have questions regarding this repo, feel free to [contact me](https://www.linkedin.com/in/stephancjohnson/).
 
 ## Full Stack Development Roadmap 
 
 Completion of the roadmap signifies completion of six certificates, totaling around 1,800 hours of coding with a wide range of web development tools.
+
+I am currently working on the first certification: Responsive Web Design.
 
 Certificates with my completion status:
 
